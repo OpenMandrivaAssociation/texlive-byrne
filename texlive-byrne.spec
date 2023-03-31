@@ -1,6 +1,6 @@
 Name:		texlive-byrne
 Version:	61943
-Release:	1
+Release:	2
 Summary:	This package provides a set of tools to typeset geometric proofs in the style of Oliver Byrne's 1847 ed. of Euclid's "Elements"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/byrne
