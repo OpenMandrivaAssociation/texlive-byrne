@@ -3,7 +3,7 @@ Version:	61943
 Release:	2
 Summary:	This package provides a set of tools to typeset geometric proofs in the style of Oliver Byrne's 1847 ed. of Euclid's "Elements"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/byrne
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/byrne
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/byrne.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/byrne.doc.r%{version}.tar.xz
